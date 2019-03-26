@@ -1,5 +1,7 @@
 [![Build Status](https://travis-ci.org/coderefinery/forking-workflow-exercise.svg?branch=master)](https://travis-ci.org/coderefinery/forking-workflow-exercise/builds)
 
+[![DOI](https://sandbox.zenodo.org/badge/177763550.svg)](https://sandbox.zenodo.org/badge/latestdoi/177763550)
+
 ## Distributed version control
 
 ## Exercise to practice collaborative forking workflow
